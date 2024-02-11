@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 100px;
+    row-gap: 100px;
+    margin-top: 100px;
+}
+
+div{
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 30px;
+}
+
+div h3{
+
+}
+
+div img{
+max-width: 300px;
+min-width: 300px;
+}

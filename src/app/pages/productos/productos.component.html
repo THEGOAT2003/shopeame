@@ -1,0 +1,14 @@
+<section>
+    @for(producto of productosList; track $index){
+
+        <div>
+            <h3>{{producto.nombre}}</h3>
+            <img src="{{producto.imagen}}" alt="imagen">
+            <h4>{{producto.precio}}</h4>
+            <button routerLink="/productos/{{producto.id}}">Ver mas</button>
+            <!--<div routerLink="/productos/{{producto.id}}">{{productosList.id}}</div> me he quedado en que la consola de la web me da params con la info del id> -->
+        </div>
+    
+    }
+</section>
+

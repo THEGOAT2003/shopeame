@@ -1,0 +1,10 @@
+<input type="text" placeholder="name" [(ngModel)]="producto.nombre">
+
+<input type="text" placeholder="precio" [(ngModel)]="producto.precio">
+
+<input type="text" placeholder="imagen" [(ngModel)]="producto.imagen">
+
+<h3>{{producto.nombre}}</h3>
+    <img src="{{producto.imagen}}" alt="imagen">
+    <h4>{{producto.precio}}</h4>
+    <button (click)="addProducto()">Añadir producto</button>

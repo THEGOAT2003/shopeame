@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "nombre": "zapatos",
+      "precio": "59,99€",
+      "id": "1",
+      "imagen": "https://www.turopalaboral.com/32450-superlarge_default/zapato-oliver-acolchados-interiormente-flexible-y-extraligero-feliz-caminar.jpg"
+    },
+    {
+      "nombre": "pantalones",
+      "precio": "29,99€",
+      "id": "2",
+      "imagen": "https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2023/06/21/6492e3b925a37.png"
+    },
+    {
+      "nombre": "camiseta",
+      "precio": "19,99€",
+      "id": "3",
+      "imagen": "https://www.prosegtar.com/3116-medium_default/camiseta-de-trabajo-muy-comoda.jpg"
+    },
+    {
+      "nombre": "chaqueta",
+      "precio": "49,99€",
+      "id": "4",
+      "imagen": "https://www.lidl.es/media/product/0/0/4/9/0/0/5/chaqueta-ligera-con-bolsillos-laterales-para-mujer-zoom--3.jpg"
+    },
+    {
+      "nombre": "calcetines",
+      "precio": "9,99€",
+      "id": "5",
+      "imagen": "https://ulevel.es/wp-content/uploads/2023/02/caLcetines_0001s_0001_der_blk-scaled.jpg"
+    },
+    {
+      "nombre": "jersey",
+      "precio": "39,99€",
+      "id": "6",
+      "imagen": "https://www.turopadecaza.com/wp-content/uploads/2021/07/aston-jersey-marron-hombre-ropa-de-campo-turopadecaza-6.jpg"
+    },
+    {
+      "nombre": "camisa",
+      "precio": "29,99€",
+      "id": "7",
+      "imagen": "https://cd1.distincion.eu/wp-content/uploads/2020/02/CAMISA-OXFORD-HOMBRE-CELESTE-VELILLA-DISTINCION.jpg"
+    },
+    {
+      "nombre": "sudadera",
+      "precio": "49,99€",
+      "id": "8",
+      "imagen": "https://images.boardriders.com/global/element-products/all/default/hi-res/elyft00152_element,f_bke0_frt1.jpg"
+    },
+    {
+      "id": "8af5",
+      "nombre": "Bufanda",
+      "precio": "15€",
+      "imagen": "https://santacana.es/787-thickbox_default/bufanda-de-angora-st-ln-16b.jpg"
+    }
+  ]
+}
